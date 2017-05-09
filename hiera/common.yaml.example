@@ -19,3 +19,8 @@ ruby::version::alias:
 
 # See https://github.com/boxen/puppet-java for docs
 java::update_version: 51
+
+# See https://github.com/boxen/puppet-nodejs for docs
+npm_module:
+  module: bower
+  node_version: *
