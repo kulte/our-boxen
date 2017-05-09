@@ -24,3 +24,7 @@ java::update_version: 51
 npm_module:
   module: bower
   node_version: *
+
+npm_module:
+  module: yarn
+  node_version: *
